@@ -1,0 +1,31 @@
+# don't add bin directories
+bin
+
+# don't add obj directories
+obj
+
+# don't add diagnostic logs
+log
+
+# don't add output files to git
+output.txt
+
+__pycache__
+
+# apple desktop services storage
+.DS_Store
+# python virtual environment
+venv/
+# JetBrains .idea stuff
+.idea
+*.iml
+# visual studio code
+.vscode
+# emacs ccls cache
+.ccls-cache
+
+## compiled C++ ##
+cmake-build-files
+
+## compiled Java ##
+*.class

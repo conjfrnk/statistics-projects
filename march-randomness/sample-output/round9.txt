@@ -1,0 +1,6 @@
+random seed: 1492798197
+10000000 trials were simulated
+4x of the same side for 6872231 times
+that's equal to 68.722310% of the time
+time to run: 0.559138 seconds
+random numbers generated: 60000000

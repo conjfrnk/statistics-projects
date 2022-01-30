@@ -1,0 +1,6 @@
+random seed: 2014196364
+100000000 trials were simulated
+all three balls were red 72904353 times
+that's equal to 72.904353% of the time
+time to run: 2.958284 seconds
+random numbers generated: 300000000
